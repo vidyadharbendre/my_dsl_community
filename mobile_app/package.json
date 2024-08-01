@@ -1,0 +1,12 @@
+{
+    "name": "my_dsl_community",
+    "version": "1.0.0",
+    "dependencies": {
+      "react": "17.0.2",
+      "react-native": "0.64.3"
+    },
+    "devDependencies": {
+      "react-native-cli": "^2.0.1"
+    }
+  }
+  
